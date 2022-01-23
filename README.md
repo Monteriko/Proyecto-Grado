@@ -20,3 +20,7 @@ Mail: mregbaoui.cf@iesesteveterradas.cat
 Nombre Completo: Francisco Montero Ranchal
 
 Mail: Montero_9326@gmail.com
+
+Nombre Completo: Sergi Simon Ferrer 
+
+Mail: sergisimon7@gmail.com

@@ -128,7 +128,8 @@ def insertUser(usuario,contraseña):
     pasword=contraseña
 
 
-    query=f"insert into usuario values (id_usuario,'{username}','{pasword}',null,null,null,null)"
+    query=f"insert into usuario (username,pasword) values ('{username}','{pasword}')"
+    #query = f"insert into usuario values (id_usuario,'{username}','{pasword}',null,null,null,null)"
     cur.execute(query)
     conn.commit()
     conn.close()
